@@ -1,10 +1,6 @@
 # Hey 👋 I'm Andressa, front-end developer in progress
 
-My name is Andresssa Tomiozzo and I'm a Web developer from Brazil.
-
-## About me
-
-✨ Creating bugs since 2025<br>
+✨ Creating bugs since 2025 in Brazil<br>
 📚 I'm currently learning TypeScript and React<br>
 🎯 Goals: Become a solid front-end developer and build clean, accessible interfaces<br>
 🎲 Fun fact: I fix bugs by adding console.log and removing them later (sometimes)</p>
